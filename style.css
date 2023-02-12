@@ -1,0 +1,23 @@
+.btnBuy{
+    visibility: hidden;
+    width: 100%;
+    height: 30px;
+    border: 0;
+    color: #ffffff;
+    background-color: #303030;;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+
+
+}
+
+.card:hover .btnBuy {
+    visibility: visible;
+    }
+
+.btn:hover{
+    border: white;
+    color:white;
+}
+
